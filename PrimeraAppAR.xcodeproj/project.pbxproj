@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2109771C29746D75003206E6 /* ContemporaryFan.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2109771B29746D75003206E6 /* ContemporaryFan.usdz */; };
+		213638BC2974677300528573 /* ContemporaryFan2.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 213638BB2974677200528573 /* ContemporaryFan2.usdz */; };
 		21628286295A432300ADA78B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21628285295A432300ADA78B /* AppDelegate.swift */; };
 		21628288295A432300ADA78B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21628287295A432300ADA78B /* ViewController.swift */; };
 		2162828A295A432300ADA78B /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 21628289295A432300ADA78B /* Experience.rcproject */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2109771B29746D75003206E6 /* ContemporaryFan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ContemporaryFan.usdz; sourceTree = "<group>"; };
+		213638BB2974677200528573 /* ContemporaryFan2.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ContemporaryFan2.usdz; sourceTree = "<group>"; };
 		21628282295A432300ADA78B /* PrimeraAppAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimeraAppAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21628285295A432300ADA78B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21628287295A432300ADA78B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -98,6 +102,8 @@
 		21628284295A432300ADA78B /* PrimeraAppAR */ = {
 			isa = PBXGroup;
 			children = (
+				2109771B29746D75003206E6 /* ContemporaryFan.usdz */,
+				213638BB2974677200528573 /* ContemporaryFan2.usdz */,
 				21628285295A432300ADA78B /* AppDelegate.swift */,
 				21628287295A432300ADA78B /* ViewController.swift */,
 				21628289295A432300ADA78B /* Experience.rcproject */,
@@ -229,7 +235,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				213638BC2974677300528573 /* ContemporaryFan2.usdz in Resources */,
 				21628292295A432400ADA78B /* LaunchScreen.storyboard in Resources */,
+				2109771C29746D75003206E6 /* ContemporaryFan.usdz in Resources */,
 				2162828F295A432400ADA78B /* Assets.xcassets in Resources */,
 				2162828D295A432300ADA78B /* Main.storyboard in Resources */,
 			);
